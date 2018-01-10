@@ -2,4 +2,4 @@
 
 预览图
 
-![预览图](https://github.com/qq908323236/AbilityMapView/blob/master/image/pre_img.png)
+![预览图](https://github.com/qq908323236/TimerShaftView/blob/master/image/1.jpg)
